@@ -1,8 +1,4 @@
-/*Author    : Wafa Rifqi Anafin*/
-/*Github    : https://github.com/wafarifki*/
-/*Facebook  : https://facebook.com/wafarifkianafin*/
-/*Instagram : https://instagram.com/wafarifki_*/
-/*Website   : https://wafarifki.tk*/
+/*Author    : dikaa sogen*/
 
 var pages = new Array('halaman1', 'halaman2', 'halaman3', 'halaman4');
 
